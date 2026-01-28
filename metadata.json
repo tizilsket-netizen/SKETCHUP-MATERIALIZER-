@@ -1,0 +1,8 @@
+{
+  "name": "Sketchup Materializer Architect Pro",
+  "description": "A high-end architectural visualization tool that transforms sketches and vectors into hyper-realistic renders using state-of-the-art AI. Features material consistency controls, a multimodal vision chat, and local high-res storage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
